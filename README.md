@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋 My name is William!
 
+I'm a Software Engineering student at the University of Waterloo.  Looking for Job Opportunities for the Spring 2025 Co-Op season!
 <!--
 **WilliamRChiu/WilliamRChiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
